@@ -34,3 +34,7 @@ HTML5
 CSS3
 
 JavaScript (Vanilla)
+
+## 📝 License
+
+This project was developed for educational purposes and is not intended for commercial deployment without further development.
