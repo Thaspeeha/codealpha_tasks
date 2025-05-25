@@ -14,6 +14,7 @@ You can run this in GitHub Codespaces or any local web browser by opening the `a
 ## 📁 Project Structure
 
 ├── age_calculator.html # Main HTML file with embedded CSS & JavaScript
+
 └── README.md # Project documentation
 
 
